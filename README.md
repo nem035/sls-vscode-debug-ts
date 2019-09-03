@@ -22,3 +22,4 @@ npm i
 2. Press the VSCode debug button
 3. Make a request to the `/hello` endpoint
 
+![debugging preview](./preview.gif)

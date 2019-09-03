@@ -12,6 +12,13 @@ cd sls-vscode-debug-ts
 npm i
 ```
 
+## Requirements
+
+- [Setup VSCode debugging](https://code.visualstudio.com/docs/editor/debugging)
+
 ## Debugging
 
+1. Set a breakpoint within `hello` handler
+2. Press the VSCode debug button
+3. Make a request to the `/hello` endpoint
 
